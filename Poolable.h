@@ -1,9 +1,5 @@
 #pragma once
 
-/*
-All poolable objects need a move constructor?
-or is it move assignment? well both really.
-*/
 class Poolable
 {
 public:
